@@ -1,33 +1,31 @@
 # Hi, I'm Hammad Ali! 👋
 
-**BS Computer Science Student**  
-Aspiring Machine Learning Engineer & Data Scientist
+## 🚀 BS Computer Science Student  
+_Aspiring Machine Learning Engineer & Data Scientist_
 
 ---
 
-### 💡 Skills
-Python, Pandas, NumPy, scikit-learn  
-OpenCV, MediaPipe  
-Data Cleaning & Visualization  
-Regression & Classification Models
+### 👨‍💻 **Top Skills & Technologies**
+- **Languages & Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn  
+- **ML Libraries:** scikit-learn, MediaPipe, OpenCV  
+- **Workflow:** Jupyter Notebooks, Git, Linux  
+- **Expertise:** Data Cleaning, Visualization, Regression & Classification Models  
+- **Solid Foundation:** Core ML concepts, model evaluation, and data-driven problem solving
 
 ---
 
-### 🔥 Projects
-- **Loan Approval Analysis**: Insights & visualizations
-- **House Price Prediction**: Regression models
-- **Virtual Hand Drawing App**: Finger gesture control with OpenCV + MediaPipe
-- **Classification Models**: Binary & multi-class comparisons
+### 🔥 **Featured Projects**
+- [🔍 Loan Approval Analysis Report](#)  
+  _Data-driven insights into loan approval factors with visualizations_
 
----
+- [🏠 House Price Prediction](#)  
+  _Linear and multiple regression on real estate data_
 
-### 🌐 Connect
-[LinkedIn](#) • [GitHub](https://github.com/HammadAli08)
+- [✍️ Virtual Hand Drawing App](#)  
+  _Control your screen with finger gestures using OpenCV + MediaPipe_
 
----
-
-**Currently exploring:** Deep learning & ML Ops  
-**Fun fact:** Cricket lover & history documentaries fan
+- [📈 Classification Models](#)  
+  _Binary and multi-class classifiers with performance comparisons_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
