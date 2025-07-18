@@ -106,5 +106,5 @@ I love architecting clean pipelines, discovering insights from messy data, and c
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let%E2%80%99s+connect+and+build+awesome!+%F0%9F%9A%80;You+can+Follow+me!+%E2%AD%90" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let%E2%80%99s+connect+and+build!+%F0%9F%9A%80;You+can+Follow+me!+%E2%AD%90" />
 </p>
