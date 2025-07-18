@@ -59,11 +59,11 @@ I thrive on solving real-world problems with code and I'm always learning someth
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadali08&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=hammadali08&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadali08&show_icons=true&theme=shadow_blue&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=hammadali08&theme=shadow_blue&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 ---
