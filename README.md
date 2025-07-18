@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=750&color=4EF5FF&lines=Data+Scientist+%7C+ML+Engineer+%7C+Contributor;Creating+clean+systems+with+real-world+impact.;Driven+by+curiosity%2C+powered+by+Python+%26+data.;Scaling+automation+with+intelligent+pipelines.;Let%E2%80%99s+build+future-proof+technology+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=750&color=4EF5FF&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Enthusiast;Creating+impactful+data-driven+solutions.;Building+intelligent+systems+with+Python+%26+ML.;Automation+%7C+Analytics+%7C+Algorithms.;Always+learning.+Always+iterating.+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -15,55 +15,52 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m **Hammad Ali** —  
-A passionate **full-stack developer** from 🇵🇰 Pakistan,  
-with a strong focus on building clean, efficient, and creative solutions.  
-I thrive on solving real-world problems with code and I'm always learning something new.
+Hi, I'm **Hammad Ali** —  
+A curious and driven **Data Scientist & Machine Learning Engineer** from 🇵🇰 Pakistan.  
+I love architecting clean pipelines, discovering insights from messy data, and crafting automation tools that actually help people.
 
-> 💡 Currently diving deep into **Machine Learning**, **AI**, and **Data Engineering**  
-> 🛠️ I love crafting side projects that solve actual problems  
-> 🎯 My goal: Build tools that matter. Code that lasts.
+> 🧠 Focused on **AI, Machine Learning, and Data Engineering**  
+> 💡 Constantly building, breaking, and improving ideas  
+> 🌐 Passionate about blending data with real-world impact
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Tools+I+Work+With..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Tools+I+Love+to+Work+With..." />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 </p>
 
-
 ---
 
-## 🧠 Featured Projects
+## 🔥 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔥 **AI Chatbot** | A smart conversational assistant built with NLP and Python | Python, NLTK, Flask |
-| 📊 **Data Cleaner** | A toolkit that cleans messy datasets in seconds | Pandas, Python |
-| 🕹️ **Portfolio Website** | Interactive portfolio with animations and scroll effects | React.js, TailwindCSS |
-
-> 💡 *Want to see more? Head to my [Repositories](https://github.com/hammadali08?tab=repositories)*
+| 🧩 Project | 📋 Description | 🛠️ Tech |
+|-----------|----------------|----------|
+| [Loan Approval Prediction](https://github.com/HammadAli08/Loan-Approval-Prediction) | A scalable ML pipeline for predicting loan approvals. Focused on precision and clean data ops. | Python, scikit-learn, Pandas, Jupyter |
+| [Tesla & GameStop Stock Dashboard](https://github.com/HammadAli08/Tesla-and-GameStop-Stock-Revenue-Dashboard) | Interactive dashboards visualizing stock revenue trends over time. | Python, Plotly, Pandas, Dash |
+| **AI Chatbot** *(Private)* | Smart assistant built using NLP fundamentals and Flask API. | Python, NLTK, Flask |
 
 ---
 
@@ -76,7 +73,7 @@ I thrive on solving real-world problems with code and I'm always learning someth
 
 ---
 
-## 💬 Connect With Me Through
+## 💬 Connect With Me
 
 <p align="center">
   <a href="mailto:hammadalitahir8@gmail.com" target="_blank">
@@ -96,18 +93,18 @@ I thrive on solving real-world problems with code and I'm always learning someth
   </a>
 </p>
 
-
 ---
 
 ## ⚡ Fun Facts
 
-- 🏏 I love playing cricket and stay competitive on the pitch.  
-- 📜 I enjoy watching historical documentaries — stories from the past inspire my vision for the future.  
-- 💻 I write clean and optimized code — bugs fear me.  
-- 🧠 I believe in *learning by building* — tutorials are just warm-up.
+- 🏏 Competitive cricket player – data by day, bowler by evening.  
+- 📜 Obsessed with historical documentaries — history is the best teacher.  
+- ⚙️ Big fan of automation — why do something twice if a script can do it better?  
+- 🧩 Debugging is my version of chess — strategy, focus, and patience.  
+- 🤓 I love open-source and learning from the global dev community.
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Follow+me;Let's+build+amazing+together!+🤝" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let%E2%80%99s+connect+and+build+awesome!+%F0%9F%9A%80;You+can+Follow+me!+%E2%AD%90" />
 </p>
