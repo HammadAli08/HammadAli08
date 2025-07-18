@@ -109,5 +109,5 @@ I thrive on solving real-world problems with code and I'm always learning someth
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Drop+a+star+if+you+like+my+work+⭐;Let's+build+something+amazing+together!+🤝" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Follow+me;Let's+build+amazing+together!+🤝" />
 </p>
