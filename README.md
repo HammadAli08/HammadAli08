@@ -1,18 +1,94 @@
-# Hi, I'm Hammad Ali! 👋
+<!-- ✨ Hero Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey,%20I'm%20Hammad%20Ali!%20🚀&fontSize=35&fontAlign=38&fontColor=ffffff" />
+</p>
 
-##  BS Computer Science Student  
-_Aspiring Machine Learning Engineer & Data Scientist_
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+</p>
 
-###  **Featured Projects**
-- [🔍 Loan Approval Analysis Report](#)  
-  _Data-driven insights into loan approval factors with visualizations_
+---
 
-- [🏠 House Price Prediction](#)  
-  _Linear and multiple regression on real estate data_
+## 👨‍💻 About Me
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hammad.ali.10125) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hammadali_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-ali08) 
+Hi, I’m **Hammad Ali** —  
+A passionate **full-stack developer** from 🇵🇰 Pakistan,  
+with a strong focus on building clean, efficient, and creative solutions.  
+I thrive on solving real-world problems with code and I'm always learning something new.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hammadali08&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" width="48%" /> <img src="https://github-contributor-stats.vercel.app/api?username=hammadali08&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" width="48%" /> </div> <div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=hammadali08&theme=shadow_blue&hide_border=false" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadali08&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" /> </div>
+> 💡 Currently diving deep into **Machine Learning**, **AI**, and **Data Engineering**  
+> 🛠️ I love crafting side projects that solve actual problems  
+> 🎯 My goal: Build tools that matter. Code that lasts.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔥 **AI Chatbot** | A smart conversational assistant built with NLP and Python | Python, NLTK, Flask |
+| 📊 **Data Cleaner** | A toolkit that cleans messy datasets in seconds | Pandas, Python |
+| 🕹️ **Portfolio Website** | Interactive portfolio with animations and scroll effects | React.js, TailwindCSS |
+
+> 💡 *Want to see more? Head to my [Repositories](https://github.com/hammadali08?tab=repositories)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadali08&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=hammadali08&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hammadali08" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/hammadali08" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Facts
+
+- 🏏 I love playing cricket and stay competitive on the pitch.  
+- 📜 I enjoy watching historical documentaries — stories from the past inspire my vision for the future.  
+- 💻 I write clean and optimized code — bugs fear me.  
+- 🧠 I believe in *learning by building* — tutorials are just warm-up.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Drop+a+star+if+you+like+my+work+⭐;Let's+build+something+amazing+together!+🤝" />
+</p>
