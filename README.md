@@ -1,9 +1,9 @@
 # Hi, I'm Hammad Ali! 👋
 
-## 🚀 BS Computer Science Student  
+##  BS Computer Science Student  
 _Aspiring Machine Learning Engineer & Data Scientist_
 
-### 🔥 **Featured Projects**
+###  **Featured Projects**
 - [🔍 Loan Approval Analysis Report](#)  
   _Data-driven insights into loan approval factors with visualizations_
 
