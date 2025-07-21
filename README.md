@@ -1,4 +1,4 @@
-<!-- 🚀 Professional Tech Header -->
+ <!-- 🚀 Professional Tech Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08F7FE,100:3D00FF&height=200&section=header&text=Hey,+I'm+Hammad+Ali+💻&fontSize=38&fontColor=FFFFFF&fontAlignY=40" />
 </p>
@@ -68,7 +68,6 @@ I love architecting clean pipelines, discovering insights from messy data, and c
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hammadali08&show_icons=true&theme=shadow_blue&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=hammadali08&theme=shadow_blue&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 ---
