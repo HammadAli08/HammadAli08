@@ -3,6 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08F7FE,100:3D00FF&height=200&section=header&text=Hey,+I'm+Hammad+Ali+💻&fontSize=38&fontColor=FFFFFF&fontAlignY=40" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=950&color=00E5FF&lines=AI+Engineer+%7C+Data+Scientist+%7C+Innovator;Designing+Intelligent+Systems+That+Think+%26+Learn.;Where+Data+Meets+Creativity+%26+Logic.;LangChain+%26+LangGraph+Architect+for+Smart+Workflows.;Turning+Ideas+Into+Impact,+One+Model+at+a+Time+🚀" />
+</p>
 
 
 <p align="center">
