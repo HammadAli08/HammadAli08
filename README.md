@@ -3,9 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08F7FE,100:3D00FF&height=200&section=header&text=Hey,+I'm+Hammad+Ali+💻&fontSize=38&fontColor=FFFFFF&fontAlignY=40" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=850&color=00E5FF&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Enthusiast;Building+Next-Gen+AI+Systems+with+LangChain+%26+LangGraph;Turning+Data+into+Intelligence.;Exploring+Automation+%7C+Analytics+%7C+Algorithms.;Always+learning,+always+iterating+🚀" />
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
