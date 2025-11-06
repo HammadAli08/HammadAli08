@@ -68,8 +68,8 @@ I love building systems that **think, learn, and scale** — from smart chatbots
 
 | 🧩 Project | 📋 Description | 🛠️ Tech |
 |-----------|----------------|----------|
+| [AI-Powered Legal Case Management & Precedent Search](https://github.com/HammadAli08/AI-Techathone) | Revolutionizing legal workflows: classification, prioritization, and precedent retrieval via AI, NLP & RAG. | Python, Streamlit, LangChain, ChromaDB, Groq API |
 | [Loan Approval Prediction](https://github.com/HammadAli08/Loan-Approval-Prediction) | End-to-end ML pipeline predicting loan approvals using structured data. | Python, scikit-learn, Pandas |
-| [Healthcare Fraud Detection](#) | Detected fraudulent claims using anomaly detection & classification. | Python, scikit-learn, Seaborn |
 | [NLP Models – Encoder–Decoder, Transformers](#) | Implemented BERT, Attention & Seq2Seq models from scratch. | PyTorch, TensorFlow |
 | [AI Chatbot (Private)](#) | Smart assistant using NLP & Flask APIs for natural conversations. | Python, NLTK, Flask |
 | [Virtual Hand Drawing App](#) | Hand gesture–based drawing app powered by OpenCV & MediaPipe. | Python, OpenCV |
