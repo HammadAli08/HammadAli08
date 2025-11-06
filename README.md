@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=950&color=00E5FF&lines=Exploring+the+Future+of+AI+%26+Automation.;Building+Machines+That+Understand+the+World.;Crafting+Next-Gen+AI+with+LangChain+%26+LangGraph.;From+Data+to+Decisions,+From+Code+to+Cognition.;Always+Innovating,+Never+Stopping+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=950&color=00E5FF&lines=Machine+Learning+Engineer+%7C+AI+Systems+Designer;Specializing+in+LangChain,+LangGraph,+and+RAG+Pipelines.;Bringing+Data,+Logic,+and+Intelligence+Together.;Pushing+the+Boundaries+of+Automation+%26+NLP.;Empowering+the+World+Through+AI+Innovation+🚀" />
 </p>
 
 
