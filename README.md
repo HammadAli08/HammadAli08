@@ -1,6 +1,6 @@
 <!-- 🌌 Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:3D00FF&height=220&section=header&text=Hey,+I'm+Hammad+Ali+💻&fontSize=38&fontColor=FFFFFF&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:3D00FF&height=220&section=header&text=Hey,+I'm+Hammad+Ali+Tahir+💻&fontSize=38&fontColor=FFFFFF&fontAlignY=40" />
 </p>
 
 <!-- 🧠 Title Section -->
