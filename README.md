@@ -1,9 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:3D00FF&height=220&section=header&text=Hey,+I'm+Hammad+Ali+Tahir+👋&fontSize=38&fontColor=FFFFFF&fontAlignY=40" width="100%"/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3D00FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Data+Scientist;LangChain+%26+LangGraph+Developer;Transforming+Data+into+Decisions;Building+Intelligent+Agents" alt="Typing SVG" />
-  </a>
+
+  <!-- Replaced broken SVG typing effect with a stable neon banner -->
+  <h2 style="font-weight:700; color:#3D00FF; margin-top:20px;">
+    ⚡ AI Engineer • Data Scientist • LangGraph Developer
+  </h2>
+
+  <h4 style="color:#00E5FF;">
+    Building Intelligent Systems • Designing Agentic Workflows • Turning Data into Decisions
+  </h4>
 </div>
 
 <p align="center">
@@ -17,20 +22,22 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
+Hi, I’m **Hammad Ali**, a passionate **AI Engineer & Data Scientist** focused on building  
+**smart, scalable, and autonomous AI systems** using modern tools like **LangChain, LangGraph & LLMs**.
 
-Hi, I'm **Hammad Ali** — a passionate **Data Scientist & AI Engineer** from 🇵🇰 Pakistan.  
-I specialize in building **intelligent, adaptive AI systems** that bridge the gap between raw data and actionable logic.
+I create systems that can **reason, decide, and act** — just like humans, but faster and with precision.
 
----
+### 🌟 What drives me?
+- I believe that **AI should solve real problems**, not just generate outputs.  
+- I love using data, logic, and intelligent workflows to create impactful automation.  
+- My ultimate goal is to **build AI that feels helpful, intuitive, and human-aware**.
 
-> 🧠 **Core Focus:** NLP, Generative AI, and Agentic Workflows  
-> ⚙️ **Specialty:** Designing autonomous systems using **LangChain & LangGraph** > 🌍 **Mission:** Solving real-world problems through the fusion of **Code and Cognition**.
-
-</div>
+> 🧠 **Core Expertise:** LLMs, NLP, Agentic Workflows, RAG Systems  
+> ⚙️ **Frameworks:** LangChain • LangGraph • PyTorch • TensorFlow • OpenAI / Groq API  
+> 🎯 **Mission:** Blend Code + Cognition to create useful intelligence
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ4NHc4bnZ4NHc4bnZ4NHc4bnZ4NHc4bnZ4NHc4bnZ4NHc4L1R1TVqF8k/giphy.gif" width="600" alt="AI Coding Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="AI Coding Animation">
 </p>
 
 ---
@@ -39,25 +46,25 @@ I specialize in building **intelligent, adaptive AI systems** that bridge the ga
 
 <div align="center">
 
-### 💻 Languages
+### 💻 **Languages**
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-### 🧠 AI & LLM Frameworks
+### 🧠 **AI & LLM Frameworks**
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=graph&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-### 📊 Data Science & Visualization
+### 📊 **Data Science & Visualization**
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-### ⚙️ Tools & DevOps
+### ⚙️ **Tools, DevOps & Platforms**
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
@@ -70,29 +77,29 @@ I specialize in building **intelligent, adaptive AI systems** that bridge the ga
 ## 🚀 Featured Projects
 
 | 🧩 Project | 📋 Description | 🛠️ Tech Stack |
-|:---|:---|:---|
-| **[AI Legal Case Manager](https://github.com/HammadAli08/AI-Techathone)** | RAG-based platform for case classification & precedent search. | `LangChain` `ChromaDB` `Streamlit` |
-| **[Loan Approval Predictor](https://github.com/HammadAli08/Loan-Approval-Prediction)** | End-to-end ML workflow predicting loan eligibility. | `Scikit-learn` `Pandas` `XGBoost` |
-| **NLP Transformer Models** | Custom BERT & Seq2Seq implementations for text tasks. | `PyTorch` `Transformers` |
-| **Virtual Hand Canvas** | Gesture-controlled drawing app using computer vision. | `OpenCV` `MediaPipe` `Python` |
+|-----------|----------------|----------------|
+| **[AI Legal Case Manager](https://github.com/HammadAli08/AI-Techathone)** | AI-powered system for case classification, prioritization & precedent search using RAG + Agents. | `LangGraph` `LangChain` `ChromaDB` `Groq` |
+| **[Loan Approval Predictor](https://github.com/HammadAli08/Loan-Approval-Prediction)** | End-to-end ML pipeline predicting loan eligibility with strong accuracy. | `Pandas` `XGBoost` `sklearn` |
+| **Transformer-Based NLP Models** | Created BERT-style embeddings, Seq2Seq Attention models & custom tokenizers. | `PyTorch` `Transformers` |
+| **Virtual Hand Canvas** | Draw on screen using hand gestures — AI-powered computer vision fun project. | `OpenCV` `MediaPipe` |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadali08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadali08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadali08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadali08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" height="160"/>
 </div>
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🤖 Currently building **Autonomous Agents** that can "think" before acting.
-- 🏏 **Cricket Analyst:** I love using Python to visualize bowling stats and match data.
-- 🗣️ **Polyglot in progress:** Fascinated by NLP and how machines understand human intent.
-- 🚀 **Philosophy:** *"Every error message is just a hidden documentation update."*
+- 🤖 Building **Autonomous AI Agents** that can think before acting  
+- 🏏 Love analyzing cricket performance with ML  
+- 🧠 Obsessed with **how language becomes intelligence**  
+- 🚀 Personal motto: *"AI is not magic — it's understanding + automation."*
 
 ---
 
