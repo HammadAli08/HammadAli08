@@ -1,116 +1,94 @@
-<!-- 🌌 Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:3D00FF&height=220&section=header&text=Hey,+I'm+Hammad+Ali+Tahir+💻&fontSize=38&fontColor=FFFFFF&fontAlignY=40" />
-</p>
-
-<!-- 🧠 Title Section -->
-<h2 align="center">
-  🚀 AI Engineer • Data Scientist • Innovator  
-</h2>
-
-<h4 align="center">
-  Designing Intelligent Systems with LangChain & LangGraph  
-  <br/>
-  Transforming Data into Decisions — Where Code Meets Cognition 🤖
-</h4>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:3D00FF&height=220&section=header&text=Hey,+I'm+Hammad+Ali+Tahir+👋&fontSize=38&fontColor=FFFFFF&fontAlignY=40" width="100%"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3D00FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Data+Scientist;LangChain+%26+LangGraph+Developer;Transforming+Data+into+Decisions;Building+Intelligent+Agents" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
+  <a href="https://www.linkedin.com/in/hammad-ali08/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hammadalitahir8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/hammadali08" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/codewith_medi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Hammad Ali** —  
-A passionate **Data Scientist & Machine Learning Engineer** from 🇵🇰 Pakistan, focused on building **intelligent, adaptive AI systems** that bridge logic and creativity.  
+Hi, I'm **Hammad Ali** — a passionate **Data Scientist & AI Engineer** from 🇵🇰 Pakistan.  
+I specialize in building **intelligent, adaptive AI systems** that bridge the gap between raw data and actionable logic.  
 
-I believe in using technology to **solve real-world problems with data, language, and innovation**.
+> 🧠 **Core Focus:** NLP, Generative AI, and Agentic Workflows  
+> ⚙️ **Specialty:** Designing autonomous systems using **LangChain & LangGraph** > 🌍 **Mission:** Solving real-world problems through the fusion of Code and Cognition.
 
-> 🧠 Skilled in **Machine Learning, Deep Learning, NLP, and AI Automation**  
-> ⚙️ Specialized in **LangChain + LangGraph AI Workflows**  
-> 🌍 Passionate about **Data Science, Generative AI, and Human-AI Collaboration**
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ4NHc4bnZ4NHc4bnZ4NHc4bnZ4NHc4bnZ4NHc4bnZ4NHc4/L1R1TVqF8k/giphy.gif" width="600" alt="AI Coding Animation">
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<h3 align="center">⚙️ Tools & Technologies I Work With</h3>
+<div align="center">
 
-<p align="center">
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <br/>
-  
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <br/>
+### 💻 Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-  <!-- ML / AI -->
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=langchain&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=langgraph&logoColor=00E5FF"/>
-  <br/>
+### 🧠 AI & LLM Frameworks
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=graph&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
+### 📊 Data Science & Visualization
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+### ⚙️ Tools & DevOps
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
 | 🧩 Project | 📋 Description | 🛠️ Tech Stack |
-|-----------|----------------|----------------|
-| [AI-Powered Legal Case Management & Precedent Search](https://github.com/HammadAli08/AI-Techathone) | AI-driven platform for case classification, prioritization, and precedent retrieval using NLP & RAG pipelines. | Python, LangChain, Streamlit, ChromaDB, Groq API |
-| [Loan Approval Prediction](https://github.com/HammadAli08/Loan-Approval-Prediction) | Full ML workflow predicting loan approvals from structured datasets. | Python, scikit-learn, Pandas |
-| NLP Models – Encoder-Decoder & Transformers | Implemented custom Seq2Seq models, Attention & BERT architectures for text tasks. | PyTorch, TensorFlow |
-| AI Chatbot (Private) | Context-aware NLP chatbot built using Flask APIs and fine-tuned language models. | Python, Flask, NLTK |
-| Virtual Hand Drawing App | Gesture-controlled virtual canvas using OpenCV & MediaPipe. | Python, OpenCV, MediaPipe |
+|:---|:---|:---|
+| **[AI Legal Case Manager](https://github.com/HammadAli08/AI-Techathone)** | RAG-based platform for case classification & precedent search. | `LangChain` `ChromaDB` `Streamlit` |
+| **[Loan Approval Predictor](https://github.com/HammadAli08/Loan-Approval-Prediction)** | End-to-end ML workflow predicting loan eligibility. | `Scikit-learn` `Pandas` `XGBoost` |
+| **NLP Transformer Models** | Custom BERT & Seq2Seq implementations for text tasks. | `PyTorch` `Transformers` |
+| **Virtual Hand Canvas** | Gesture-controlled drawing app using computer vision. | `OpenCV` `MediaPipe` `Python` |
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadali08&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" height="180" alt="GitHub Stats" />
-</p>
-
----
-
-## 💬 Connect With Me
-
-<p align="center">
-  <a href="mailto:hammadalitahir8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hammad-ali08/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/hammadali08" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/codewith_medi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadali08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadali08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" height="160" alt="Top Languages" />
+</div>
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🧩 Exploring **LangGraph-powered autonomous AI agents**  
-- 🧠 Built 100+ ML/DL models — always iterating, always improving  
-- 🏏 Cricket enthusiast — love analyzing bowling stats with ML 📊  
-- 💬 Fascinated by **AI ethics & historical linguistics**  
-- 🚀 Every model tells a story — I make them speak ✨  
+- 🤖 Currently building **Autonomous Agents** that can "think" before acting.
+- 🏏 **Cricket Analyst:** I love using Python to visualize bowling stats and match data.
+- 🗣️ **Polyglot in progress:** Fascinated by NLP and how machines understand human intent.
+- 🚀 **Philosophy:** *"Every error message is just a hidden documentation update."*
 
 ---
-
-<h3 align="center">💫 Thanks for visiting my profile — let’s connect and build the future together! ⚙️</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D00FF,100:00E5FF&height=120&section=footer"/>
