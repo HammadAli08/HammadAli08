@@ -17,14 +17,20 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
 Hi, I'm **Hammad Ali** — a passionate **Data Scientist & AI Engineer** from 🇵🇰 Pakistan.  
-I specialize in building **intelligent, adaptive AI systems** that bridge the gap between raw data and actionable logic.  
+I specialize in building **intelligent, adaptive AI systems** that bridge the gap between raw data and actionable logic.
+
+---
 
 > 🧠 **Core Focus:** NLP, Generative AI, and Agentic Workflows  
-> ⚙️ **Specialty:** Designing autonomous systems using **LangChain & LangGraph** > 🌍 **Mission:** Solving real-world problems through the fusion of Code and Cognition.
+> ⚙️ **Specialty:** Designing autonomous systems using **LangChain & LangGraph** > 🌍 **Mission:** Solving real-world problems through the fusion of **Code and Cognition**.
+
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ4NHc4bnZ4NHc4bnZ4NHc4bnZ4NHc4bnZ4NHc4bnZ4NHc4/L1R1TVqF8k/giphy.gif" width="600" alt="AI Coding Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ4NHc4bnZ4NHc4bnZ4NHc4bnZ4NHc4bnZ4NHc4bnZ4NHc4L1R1TVqF8k/giphy.gif" width="600" alt="AI Coding Animation">
 </p>
 
 ---
