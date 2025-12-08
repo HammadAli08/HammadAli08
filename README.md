@@ -88,9 +88,30 @@ I create systems that can **reason, decide, and act** — just like humans, but 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadali08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadali08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" height="160"/>
+
+<!-- GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=hammadali08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=00E5FF" 
+  height="160" 
+  alt="GitHub Stats" 
+/>
+
+<!-- Streak Stats -->
+<img 
+  src="https://streak-stats.demolab.com?user=hammadali08&theme=tokyonight&hide_border=true&background=00000000&ring=00E5FF&fire=3D00FF&currStreakLabel=00E5FF" 
+  height="160" 
+  alt="GitHub Streak" 
+/>
+
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadali08&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF" 
+  height="160" 
+  alt="Top Languages" 
+/>
+
 </div>
+
 
 ---
 
