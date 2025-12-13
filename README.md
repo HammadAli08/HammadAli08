@@ -1,94 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:3D00FF&height=220&section=header&text=Hey,+I'm+Hammad+Ali+Tahir+👋&fontSize=38&fontColor=FFFFFF&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:3D00FF&height=220&section=header&text=Hammad+Ali+Tahir+&fontSize=48&fontColor=FFFFFF&fontAlignY=40" width="100%"/>
 
-  <h2 style="font-weight:700; color:#3D00FF; margin-top:20px;">
-    ⚡ AI Engineer • Data Scientist • LangGraph Developer
-  </h2>
+  <h1 style="font-weight:700; color:#3D00FF; margin-top:20px;">
+    ⚡ AI Engineer | Data Scientist | Agentic Workflow Developer
+  </h1>
 
-  <h4 style="color:#00E5FF;">
-    Building Intelligent Systems • Designing Agentic Workflows • Turning Data into Decisions
-  </h4>
+  <h3 style="color:#00E5FF;">
+    Turning LLMs into Autonomous Agents • Designing High-Accuracy RAG Systems
+  </h3>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hammad-ali08/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hammadalitahir8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/hammadali08" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hammad-ali08/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hammadalitahir8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/hammadali08" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me: The Agent Architect
 
-Hi, I’m **Hammad Ali**, a final-year Computer Science student and passionate  
-**AI Engineer / Data Scientist** who loves building **smart, scalable, real-world AI systems**.
+Hi, I’m **Hammad Ali Tahir**, a final-year Computer Science student and a passionate **AI Engineer**.
 
-My work focuses on creating AI that can *reason, retrieve, plan, and act* —  
-using modern frameworks like **LangChain, LangGraph, Transformers, and RAG**.
+My focus isn't just on building models; it’s on designing **Intelligent Agentic Workflows** that can reason, retrieve, and execute complex, real-world tasks. I leverage the latest advancements in LLMs and modern frameworks to solve high-impact problems across industries.
 
-### 🌟 What I Do
-- Develop AI agents that can **analyze, plan tasks & generate insights**
-- Build end-to-end **ML and NLP pipelines**
-- Create **retrieval-augmented systems (RAG)** for large datasets  
-- Work with **LLMs, Transformers, Encoder-Decoder models & Attention**
+### 🧠 Core Expertise
+- **Agent Design (LangGraph):** Architecting multi-step, autonomous workflows with tool-use, human-in-the-loop validation, and state management. 
+- **Advanced RAG:** Building Retrieval-Augmented Generation systems for high accuracy, focusing on **Multi-Vector Retrieval** and **Context Reranking**.
+- **Deep Learning / NLP:** Implementing and fine-tuning Transformer architectures (e.g., BERT, GPT-style models) for text classification and sequence-to-sequence tasks.
 
-### 🎯 My Mission  
-To design AI that blends **logic + cognition**, making technology helpful, adaptive, and truly intelligent.
+### 🌟 Current Mission
+To transition from building simple scripts to architecting complex, decision-making AI systems that blend **probabilistic cognition** with **deterministic logic**, making technology truly adaptive and intelligent.
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Practical Demonstrations (Interactive Section)
+
+Check out these projects that highlight my specific AI design choices:
+
+| 🧩 Project Title | 🎯 Key Feature | 📈 Impact / Result | 🔗 Live Demo/Repo |
+|-------------------|-------------------|-------------------|-------------------|
+| **AI Legal Case Manager** | **LangGraph Agent Workflow:** Utilized a state machine to move cases from **Classification $\rightarrow$ Precedent Search $\rightarrow$ Prioritization**. | Achieved **91.5\% Classification Accuracy** in a competitive techathon, proving workflow reliability. | [Repo Link] |
+| **Academic RAG Assistant** | **Multi-Vector RAG:** Handled 160+ PDF documents (Schemes, Rules) by splitting knowledge into **three isolated vector stores** to prevent context noise. | Minimized hallucinations and guaranteed source-cited answers for University regulations. | [Repo Link] |
+| **Transformer NLP Models** | **PyTorch Implementation:** Built the core Attention mechanism and Encoder-Decoder stack from scratch. | Deepened understanding of LLM foundations and memory mechanisms. | [Repo Link] |
+| **Loan Approval Predictor** | **End-to-End ML Ops:** Full pipeline automation from data ingestion to model serving (XGBoost). | Successfully benchmarked against multiple models (SVC, LogReg) achieving high precision on loan default prediction. | [Repo Link] |
+
+---
+
+## 🛠️ Tech Stack: The Toolkit
 
 <div align="center">
 
-### 💻 **Languages**
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
-### 🤖 **AI, ML & NLP**
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+### 🤖 **AI, ML & NLP (The Core)**
 <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=graph&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Qdrant-00599C?style=for-the-badge&logo=qdrant&logoColor=white"/>
 
-### 📊 **Data & Visualization**
+### 💻 **Languages & Data Engineering**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-### ⚙️ **Tools & DevOps**
+### ⚙️ **Tools & MLOps**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Get In Touch
 
-| 🧩 Project | 📋 Description | 🛠️ Tech Stack |
-|-----------|----------------|----------------|
-| **AI Legal Case Manager** | RAG + Agent system for case classification, prioritization and precedent search. Built during **Uraan AI Techathon**. Achieved **91.5% accuracy** in classification. | LangGraph • LangChain • ChromaDB • Groq |
-| **Loan Approval Predictor** | Complete ML pipeline with EDA → Preprocessing → Model Training (XGBoost, SVC). | sklearn • Pandas • XGBoost |
-| **Transformer NLP Models** | Implemented Encoder-Decoder, Attention, BERT-style embeddings & tokenizers. | PyTorch • Transformers |
-| **Virtual Hand Canvas** | Gesture-based drawing using computer vision. | OpenCV • MediaPipe |
-
----
-
-## ⚡ Fun Facts
-
-- 🤖 Currently building **Autonomous AI Agents** that *think before acting*  
-- 🏏 A big cricket fan — love analyzing match & bowling stats using ML  
-- 🧠 Always exploring how **language becomes intelligence**  
-- 🚀 Motto: *“AI = Logic + Data + Imagination.”*
+| Contact | Detail |
+| :--- | :--- |
+| **Email** | hammad alitahir8@gmail.com (Best for serious inquiries) |
+| **LinkedIn** | [Hammad Ali Tahir's LinkedIn Profile](https://www.linkedin.com/in/hammad-ali08/) |
+| **Fun Fact** | I love analyzing cricket bowling stats using time-series anomaly detection! |
+| **Motto** | *AI = Logic + Data + Imagination.* |
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D00FF,100:00E5FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D00FF,100:00E5FF&height=120&section=footer"/>
 </p>
