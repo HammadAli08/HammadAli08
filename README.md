@@ -40,10 +40,10 @@ Check out these projects that highlight my specific AI design choices:
 
 | 🧩 Project Title | 🎯 Key Feature | 📈 Impact / Result | 🔗 Live Demo/Repo |
 |-------------------|-------------------|-------------------|-------------------|
-| **AI Legal Case Manager** | **LangGraph Agent Workflow:** Utilized a state machine to move cases from **Classification $\rightarrow$ Precedent Search $\rightarrow$ Prioritization**. | Achieved **91.5\% Classification Accuracy** in a competitive techathon, proving workflow reliability. | [Repo Link] |
-| **Academic RAG Assistant** | **Multi-Vector RAG:** Handled 160+ PDF documents (Schemes, Rules) by splitting knowledge into **three isolated vector stores** to prevent context noise. | Minimized hallucinations and guaranteed source-cited answers for University regulations. | [Repo Link] |
-| **Transformer NLP Models** | **PyTorch Implementation:** Built the core Attention mechanism and Encoder-Decoder stack from scratch. | Deepened understanding of LLM foundations and memory mechanisms. | [Repo Link] |
-| **Loan Approval Predictor** | **End-to-End ML Ops:** Full pipeline automation from data ingestion to model serving (XGBoost). | Successfully benchmarked against multiple models (SVC, LogReg) achieving high precision on loan default prediction. | [Repo Link] |
+| **AI Legal Case Manager** | **LangGraph Agent Workflow:** Utilized a state machine to move cases from **Classification $\rightarrow$ Precedent Search $\rightarrow$ Prioritization**. | Achieved **91.5\% Classification Accuracy** in a competitive techathon, proving workflow reliability. | https://legal-management-system.streamlit.app/ |
+| **Academic RAG Assistant** | **Multi-Vector RAG:** Handled 160+ PDF documents (Schemes, Rules) by splitting knowledge into **three isolated vector stores** to prevent context noise. | Minimized hallucinations and guaranteed source-cited answers for University regulations. | In progress |
+| **Transformer NLP Models** | **PyTorch Implementation:** Built the core Attention mechanism and Encoder-Decoder stack from scratch. | Deepened understanding of LLM foundations and memory mechanisms. | https://github.com/HammadAli08/Data-Science-Toolbox/tree/main/NLP |
+| **Loan Approval Predictor** | **End-to-End ML Ops:** Full pipeline automation from data ingestion to model serving (XGBoost). | Successfully benchmarked against multiple models (SVC, LogReg) achieving high precision on loan default prediction. | https://github.com/HammadAli08/Loan_Approval_Prediction|
 
 ---
 
@@ -80,7 +80,7 @@ Check out these projects that highlight my specific AI design choices:
 
 | Contact | Detail |
 | :--- | :--- |
-| **Email** | hammad alitahir8@gmail.com (Best for serious inquiries) |
+| **Email** | hammadalitahir8@gmail.com (Best for serious inquiries) |
 | **LinkedIn** | [Hammad Ali Tahir's LinkedIn Profile](https://www.linkedin.com/in/hammad-ali08/) |
 | **Fun Fact** | I love analyzing cricket bowling stats using time-series anomaly detection! |
 | **Motto** | *AI = Logic + Data + Imagination.* |
