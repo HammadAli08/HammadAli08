@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hammad-ali08/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://fedora-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Fedora_Portfolio-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white"/></a>
   <a href="mailto:hammadalitahir8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/hammadali08" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -85,6 +86,7 @@ Here is a look at the technical architecture and real-world impact of my recent 
 
 | Contact | Detail |
 | :--- | :--- |
+| 🖥️ **Fedora Portfolio** | [fedora-portfolio.vercel.app](https://fedora-portfolio.vercel.app/) (Interactive OS Experience) |
 | ✉️ **Email** | hammadalitahir8@gmail.com (Best for collaborations or career opportunities) |
 | 🤝 **LinkedIn** | [Hammad Ali Tahir's LinkedIn Profile](https://www.linkedin.com/in/hammad-ali08/) |
 | 🏏 **Fun Fact** | I love analyzing cricket bowling stats using time-series anomaly detection! |
